@@ -1,0 +1,11 @@
+{
+  "name": "seed-uv",
+  "version": "1.0.0",
+  "description": "Browserify uservoice wrapper",
+  "main": "index.js",
+  "author": "Vladimir Popov <vlad@seedalpha.net>",
+  "license": "MIT",
+  "dependencies": {
+    "scriptjs": "^2.5.8"
+  }
+}
